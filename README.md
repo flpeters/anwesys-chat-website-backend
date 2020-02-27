@@ -15,4 +15,4 @@ At the very top of /js/script.js in the frontend, one can change the ip adress o
 
 Once you've set up the database, you should be able to start the server.
 
-When the server is started, you can open the frontend website available here https://github.com/flpeters/anwesys-chat-website-frontend and start chatting.
+When the server is started, you can open the frontend website available at: https://github.com/flpeters/anwesys-chat-website-frontend and start chatting.
